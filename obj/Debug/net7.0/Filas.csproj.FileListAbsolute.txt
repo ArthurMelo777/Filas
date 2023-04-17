@@ -1,0 +1,15 @@
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\bin\Debug\net7.0\Filas.exe
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\bin\Debug\net7.0\Filas.deps.json
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\bin\Debug\net7.0\Filas.runtimeconfig.json
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\bin\Debug\net7.0\Filas.dll
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\bin\Debug\net7.0\Filas.pdb
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\obj\Debug\net7.0\Filas.csproj.AssemblyReference.cache
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\obj\Debug\net7.0\Filas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\obj\Debug\net7.0\Filas.AssemblyInfoInputs.cache
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\obj\Debug\net7.0\Filas.AssemblyInfo.cs
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\obj\Debug\net7.0\Filas.csproj.CoreCompileInputs.cache
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\obj\Debug\net7.0\Filas.dll
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\obj\Debug\net7.0\refint\Filas.dll
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\obj\Debug\net7.0\Filas.pdb
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\obj\Debug\net7.0\Filas.genruntimeconfig.cache
+C:\Users\20221014040003\Desktop\projetos\EDL\filas\obj\Debug\net7.0\ref\Filas.dll
