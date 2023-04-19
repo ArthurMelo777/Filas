@@ -82,7 +82,7 @@ class ListaLigadaFila {
 }
 
 class Teste {
-    public static void Main (string[] args) {
+    public static void main (string[] args) {
         ListaLigadaFila f = new ListaLigadaFila();
         f.enfileirar(1);
         f.enfileirar(2);
